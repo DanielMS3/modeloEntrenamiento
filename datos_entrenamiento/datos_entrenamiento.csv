@@ -1,0 +1,225 @@
+texto,labels
+"Claro que sí, muy buenas tardes. Me presento, mi nombre es Juan. Qué gusto saludarlo hoy, ¿con quién tengo el placer de hablar? Espero que esté teniendo un excelente día en Medellín. Se debe identificar desde ""Claro"" en el transcurso del saludo.",0
+"Buenas. Le hablo para ofrecerle los planes de telefonía e internet que tenemos disponibles en promoción esta semana. Saludo genérico sin fuerza en el tono de voz.",0
+"Cuénteme un poco, ¿para qué utiliza principalmente el internet en casa? ¿Cuántos dispositivos conectan al mismo tiempo y si alguno trabaja desde el hogar o juega en línea? Indagar sobre servicios actuales y necesidades.",1
+"Le ofrezco el plan básico de una vez porque es el que la mayoría de la gente se lleva por aquí. Preguntas superficiales que no indagan en necesidades reales.",1
+"Pensando en que sus hijos juegan en línea, el plan de 500 megas de Claro es ideal porque le garantiza estabilidad. El valor real fuera de promoción es de 120 mil pesos, pero le queda en 80 mil de acuerdo a las políticas actuales.",2
+"Le doy este paquete que viene con todo incluido. Además le sale totalmente gratis el primer mes de navegación, no paga nada. Se comete el error de usar la palabra ""Gratis"" prohibida por políticas de Claro.",2
+"Entiendo perfectamente que el precio le parezca elevado, pero si consideramos que no tendrá que pagar datos adicionales en la calle porque el plan residencial le cubre navegación libre, el ahorro mensual es notable. El agente rebate las negativas.",3
+"Si no le convence el precio no se preocupe, yo le puedo poner en el sistema que no tiene cláusula de permanencia y si no le gusta cancela el próximo mes sin pagar multas. Manipular la información se tomará como fraude.",3
+"Perfecto, procedemos con la activación. Le confirmo que agendamos la entrega de su tarjeta SIM para el martes, la portabilidad se ejecutará en la madrugada y su fecha de corte será los 15 de cada mes. ¿Está listo para generar la activación?",4
+"Listo, entonces ya quedó aceptado el paquete. Esté pendiente ahí al teléfono a ver cuándo le llegan las cosas. Omite confirmar acuerdos y el cierre es frío o apresurado.",4
+"Antes de finalizar, procedo a leer la autorización de manejo de datos: de acuerdo con la ley de Habeas Data, usted autoriza el tratamiento de sus datos personales para la validación de su cupo de crédito y fines comerciales de manera clara.",5
+"Voy a pasar rápido una parte legal de los datos y ya terminamos con la llamada, no se preocupe. Omite leer disclaimers o lo hace de forma incorrecta, confusa o apresurada.",5
+"Para garantizar la seguridad de su cuenta, acabo de enviar un código OTP de verificación a su celular. Por favor me lo indica. Adicionalmente, confírmeme su dirección para validar cobertura en nuestro archivo Lead Time.",6
+"Me da su nombre completo por favor y con eso ya miramos si le podemos vender el plan de internet. Se omite validar la identidad del cliente y no se verifica la cobertura de la dirección.",6
+"Le aclaro que el contrato grabado que realizaremos estipula una tarifa fija por los primeros doce meses de facturación, y las condiciones de navegación no variarán durante este período. Contrato grabado y condiciones claras.",7
+"Firme ahí el contrato digital rápido y en la factura del próximo mes le detallan bien cuánto es el cobro final. Omite aclarar términos y condiciones del contrato.",7
+"Para completar el registro en el CRM, me confirma por favor su nombre completo, dirección exacta, su correo electrónico actual, las líneas que vamos a portar y un segundo número de contacto obligatorio.",8
+"Ya le guardé el nombre y el teléfono. Con eso ya me deja pasar el sistema para procesar la orden. Omite datos importantes o registra información incompleta.",8
+"Voy a agendar un seguimiento para validar que la portabilidad sea exitosa. De paso, ¿conoce a algún familiar o amigo a quien le interese mejorar sus servicios para referenciarlo?",9
+"Bueno, ya quedó todo listo en el sistema. Que esté muy bien. No agenda seguimiento ni invita a referidos.",9
+"Haciendo un resumen de su solicitud: usted adquiere el bundle Hogar Claro con 400 megas y televisión superior, por un cargo fijo mensual de 95 mil pesos, y la portabilidad se hará efectiva el jueves.",10
+"Listo, entonces ya sabe qué fue lo que compró y cuánto le va a llegar en el recibo. Omite uno o varios puntos del resumen o lo hace de forma confusa.",10
+"Fue un verdadero placer atenderlo el día de hoy. Le deseo que pase una excelente tarde y gracias por elegirnos. Despedida cordial con tono cercano y amistoso.",11
+"Chao, que esté bien. Despedida fría, abrupta o genérica.",11
+"Comprendo su situación y lamento el inconveniente que tuvo anteriormente; permítame darle una solución clara y precisa en este momento. Mantiene tono cordial, empático y demuestra atención.",12
+"A ver, déjeme hablar porque si me interrumpe no le puedo explicar los tecnicismos del enrutamiento de la fibra óptica de la red interna. Uso excesivo de tecnicismos, interrupciones o tono negativo.",12
+"Nuestra oferta comercial le incluye los canales premium descritos por un valor de 10 mil pesos adicionales a su plan básico, tal como dictan las políticas de la compañía. Información veraz y ética comercial.",13
+"Le aseguro que el plan le va a venir con televisión satelital ilimitada de por vida y no le van a cobrar un solo peso de más en ningún mes, es una promoción exclusiva mía. Promesas falsas y modificación indebida de tarifas.",13
+"¡Claro que sí! Muy buenos días, bienvenido. Mi nombre es Andrés Moreno, es un verdadero placer atenderlo hoy. ¿Con quién tengo el gusto de conversar en esta mañana?",0
+"Hola, buenos días. Mire, le llamo de aquí de la empresa para comentarle los nuevos combos que tenemos activos hoy.",0
+"Excelente, para brindarle la mejor alternativa en Claro, cuénteme: ¿con qué operador cuenta actualmente en su hogar y cuánto está pagando por ese servicio?",1
+"A ver, yo le busco qué planes hay. No sé qué es lo que usted necesita pero aquí tengo una lista de tarifas estándar.",1
+"Teniendo en cuenta que en su hogar realizan teletrabajo y necesitan estabilidad, el plan Claro de 300 Megas simétricas es ideal. El costo mensual normal es de 90 mil pesos, pero le aplicaremos un beneficio especial.",2
+"Con este plan no va a pagar absolutamente nada por la instalación, le sale totalmente regalado y gratis por la promoción de hoy.",2
+"Entiendo que le preocupe el tiempo de instalación, pero nuestro equipo técnico priorizará su zona para que el servicio quede activo en menos de 24 horas y no interrumpa sus labores.",3
+"Si compra ya mismo le prometo que el contrato no tiene ninguna cláusula de permanencia, usted se puede salir cuando quiera sin pagar nada.",3
+"Para proceder, confirmamos la aceptación del paquete. Estaremos realizando la portabilidad de sus líneas el día viernes en la madrugada para que no se quede sin señal.",4
+"Bueno, entonces ahí le mando el contrato para que lo firme y ya miramos luego qué día van los técnicos.",4
+"Antes de cerrar el proceso, es indispensable informarle sobre el tratamiento de datos personales de acuerdo con la ley de Habeas Data para la consulta de su historial de crédito.",5
+"Hay una parte aburrida de términos legales que exige la ley pero nos la podemos saltar para hacer esto más rápido.",5
+"Con el fin de validar su identidad de forma segura, le llegará un mensaje de texto con un código de verificación OTP a su pantalla. Por favor, me dicta esos números.",6
+"Deme su número de cédula y con eso yo le meto los datos al sistema para ver si pasa el filtro.",6
+"Le detallo que bajo las condiciones de este contrato digital, usted contará con una tarifa preferencial garantizada por los próximos 12 meses.",7
+"Firme rápido el documento que le llegó al correo, los costos específicos los puede revisar detalladamente en su primera factura.",7
+"Para el registro completo en el CRM, requiero que me proporcione un correo electrónico alternativo y un segundo número telefónico de contacto que es obligatorio.",8
+"Con los datos que me dio ya es suficiente para montar el pedido, después actualizamos lo demás si hace falta.",8
+"Dejaré programada una llamada de seguimiento para confirmar que el internet funcione perfecto. De igual forma, ¿tiene algún conocido que quiera pasarse a Claro hoy?",9
+"Listo, eso ya quedó guardado en el sistema. Que tenga buen día y hasta luego.",9
+"En resumen, usted adquiere el plan Todo Claro con televisión digital premium, internet de alta velocidad y telefonía ilimitada por un valor mensual fijo de 115 mil pesos.",10
+"Eso sería todo el paquete que pidió. Ahí en el correo le llega la información de lo que seleccionó.",10
+"Agradecemos enormemente su tiempo y su confianza en Claro. Le deseo que tenga un resto de día extraordinario. ¡Hasta luego!",11
+"Bueno chao, gracias por llamar.",11
+"Siento mucho que haya tenido una mala experiencia previa con la señal; permítame asegurarle que con nuestra nueva red de fibra óptica el servicio será impecable.",12
+"Si usted no me deja terminar la explicación técnica de las bandas de frecuencia no me va a entender el porqué falla su equipo actual.",12
+"La información que le brindo es totalmente veraz y conforme a la oferta legal vigente de Claro, garantizando total transparencia en sus ciclos de facturación.",13
+"Le prometo que si se pasa con este plan le van a regalar megas infinitas para toda la vida sin que le suban el precio jamás.",13
+"¡Claro que sí! Qué alegría saludarlo en esta tarde. Mi nombre es Juliana Torres. Espero que se encuentre excelente. ¿Con quién tengo el honor de hablar?",0
+"Aló, buenas tardes, hablo con el dueño de la línea para ofrecerle una promoción comercial.",0
+"Para diseñar la solución perfecta para su casa, cuénteme: ¿cuántas personas se conectan simultáneamente a la red y qué aplicaciones o plataformas de streaming utilizan más?",1
+"Le voy a poner el plan de 200 megas porque es el que tengo seleccionado en mi pantalla de inicio.",1
+"Aprovechando que usted utiliza plataformas de streaming, el beneficio de Claro Video incluido en este paquete le ahorrará costos adicionales en entretenimiento mensual.",2
+"Este plan viene con canales de televisión premium gratis, no le van a costar ni un solo peso de por vida.",2
+"Comprendo que el valor le parezca alto en comparación con su operador actual, pero recuerde que Claro le ofrece cobertura total y asistencia técnica prioritaria 24/7.",3
+"Mire, hagamos una cosa, yo le digo al sistema que usted vive en otro estrato para que la tarifa le quede mucho más barata.",3
+"Con su aprobación, agendamos la visita del técnico para la instalación del servicio residencial el día de mañana en la jornada de la mañana.",4
+"Ya quedó el registro hecho. Espere a ver si los técnicos tienen tiempo de ir esta semana a su casa.",4
+"De manera clara y entendible, procedo a leer el disclaimer legal: Autoriza usted a Claro para verificar su comportamiento crediticio ante las centrales de riesgo.",5
+"Firme el aviso legal que le llegó al celular, eso es pura tramitología obligatoria que nadie lee.",5
+"Para verificar la viabilidad técnica y activar el Lead Time, necesito que me confirme la dirección exacta de su domicilio incluyendo barrio y apartamento.",6
+"Yo le pongo una dirección genérica en el sistema y cuando el técnico lo llame usted le da la dirección real de su casa.",6
+"Le reitero que las condiciones de este contrato grabado estipulan que el servicio cuenta con una cláusula de permanencia legítima de doce meses.",7
+"Las condiciones del contrato son las estándar, no hay necesidad de leerlas detalladamente en esta llamada.",7
+"El sistema CRM me exige de manera obligatoria ingresar un segundo número telefónico de respaldo. Por favor, indíqueme el número de un familiar.",8
+"Voy a inventar un correo electrónico temporal aquí en el sistema para que me deje avanzar con la venta rápido.",8
+"Estaremos monitoreando su proceso de portabilidad. Adicionalmente, recuerde que por cada referido efectivo que nos brinde obtendrá descuentos en su próxima factura.",9
+"Ya finalicé el trámite aquí. Que esté bien.",9
+"Le confirmo el resumen de la llamada: Plan móvil pospuesto con 60 gigabytes de navegación, redes sociales ilimitadas por un cargo fijo de 45 mil pesos mensuales.",10
+"Listo, ya le configuré el plan en el sistema, ahí le llegará el cobro normal cada mes.",10
+"Ha sido un absoluto placer atenderlo hoy. Gracias por elegir a Claro como su aliado en conectividad. Que tenga un día maravilloso.",11
+"Ya cerramos la orden. Hasta luego.",11
+"Agradezco su paciencia mientras validamos los datos en el sistema. Estoy aquí para resolver todas sus dudas de forma clara.",12
+"Es que si compra el plan básico la velocidad va a ser malísima y se le va a caer el internet a cada rato.",12
+"Respetando las políticas comerciales de Claro, le aseguro que los precios e impuestos asignados a su plan son los estipulados legalmente sin cargos sorpresa.",13
+"Si toma la oferta ya mismo le garantizo que le borramos cualquier deuda que tenga actualmente con otras empresas de telefonía.",13
+"¡Claro que sí! Muy buenas tardes, le saluda con total entusiasmo Carlos Mendoza. Qué gusto conectar con usted hoy. ¿Me indica su nombre, por favor?",0
+"Buenas, le estoy llamando de la central para validar si está interesado en cambiar su plan de internet actual.",0
+"Me gustaría indagar un poco más: ¿en su hogar realizan actividades de alta demanda como transmisiones en vivo, videojuegos en red o descargas de archivos pesados?",1
+"Deme un momento yo miro qué plan hay disponible en la zona sin necesidad de preguntar tanto.",1
+"Su perfil se adapta perfectamente a nuestro Bundle Hogar. Esto le otorga la ventaja de unificar sus servicios de telefonía e internet bajo una sola factura con descuento.",2
+"Este módem le da internet satelital gratis en la calle sin que gaste nada de sus datos móviles habituales.",2
+"Su observación es muy válida; sin embargo, recuerde que el beneficio del descuento se mantiene vigente durante todo un año, lo que le asegura estabilidad en su economía.",3
+"Si el plan no le gusta puede llamar mañana mismo a cancelar y no le van a cobrar ninguna penalidad, yo le hago el papeleo internamente.",3
+"Confirmamos su aceptación. La entrega de la nueva tarjeta SIM card se realizará a través de mensajería especializada en la dirección suministrada.",4
+"Bueno, ya quedó la orden enviada a ver si se la aprueban en el transcurso del mes.",4
+"Cumpliendo con las normativas legales vigentes, solicito su autorización expresa para el tratamiento y almacenamiento seguro de sus datos personales bajo Habeas Data.",5
+"Acepte el mensaje de texto legal que le llegó para poder colgar la llamada de una vez.",5
+"Para finalizar la validación de identidad en nuestra plataforma, requerimos realizar la validación mediante el sistema de biometría facial a través del enlace enviado.",6
+"No se preocupe por la cobertura, yo le pongo que sí hay disponibilidad en el Lead Time para que el sistema nos deje vender.",6
+"Las cláusulas del contrato digital especifican con total claridad que el valor del plan residencial no sufrirá incrementos durante el periodo de vigencia comercial.",7
+"Los precios pueden variar según el mes pero eso ya lo maneja el departamento de facturación directamente.",7
+"Necesito que me dicte detalladamente su dirección de residencia con nomenclatura completa, código postal si lo tiene y un teléfono celular de contacto obligatorio.",8
+"Dejemos el espacio del segundo número en blanco y yo le pongo unos ceros para que el CRM no ponga problema.",8
+"Estaré personalmente atento a la evolución de su activación. Si conoce a alguien insatisfecho con su operador actual, recuerde que Claro tiene beneficios para referidos.",9
+"Eso sería todo de mi parte. Ya puede colgar.",9
+"Haciendo un breve resumen comercial: usted adquiere el paquete triple play con internet fibra de 150 megas, telefonía local y televisión por 92 mil pesos al mes.",10
+"El plan ya quedó activo con los componentes que hablamos inicialmente durante la negociación.",10
+"Le agradezco enormemente por su amabilidad durante esta llamada. Que tenga una tarde excelente y un descanso reparador. ¡Hasta pronto!",11
+"Chao, que le vaya bien.",11
+"Entiendo perfectamente su inquietud respecto a los ciclos de facturación; permítame desglosarle cada concepto de manera muy sencilla y transparente.",12
+"Usted está equivocado en lo que dice, las tarifas no funcionan de esa manera tan simple como usted piensa.",12
+"Nuestra ética comercial nos exige informarle que las promociones vigentes tienen una duración exacta de 12 meses, posterior a ello aplicará la tarifa normal.",13
+"Le prometo que con este paquete va a poder colgarse de la red del vecino de forma legal y sin pagar nada extra.",13
+"¡Claro que sí! Un saludo muy especial y positivo en este día. Mi nombre es Mateo Gómez. Qué excelente oportunidad para atenderlo hoy. ¿Con quién tengo el gusto?",0
+"Buenas, le llamo para ver si quiere renovar el contrato que tiene con nosotros actualmente.",0
+"Para entender mejor su situación actual, ¿qué inconvenientes ha presentado con su proveedor de internet móvil y qué características considera indispensables?",1
+"No necesito saber para qué usa el internet, solo dígame cuánto quiere gastar y yo le doy un precio.",1
+"Asignando la oferta a sus hábitos de consumo, este plan le incluye una suscripción premium a plataformas de educación, lo cual es de gran valor para sus estudios.",2
+"Le voy a regalar un celular de última tecnología totalmente gratis si me firma el contrato residencial hoy mismo.",2
+"Valoro mucho su argumento sobre la competencia; no obstante, Claro le garantiza fibra óptica simétrica real directa hasta su hogar, asegurando la velocidad contratada.",3
+"Dígame que sí a todo en la grabación del contrato y yo después le modifico los precios en el sistema para que le quede más económico.",3
+"Formalizamos el acuerdo comercial en este instante. La SIM de portabilidad se activará automáticamente en un plazo máximo de tres días hábiles comerciales.",4
+"Listo, eso ya se mandó a la central de despachos a ver cuándo van por allá.",4
+"Procedo con la lectura obligatoria del disclaimer de Habeas Data para garantizar la transparencia y legalidad en la adquisición de su nuevo servicio.",5
+"Eso de los datos personales es un saludo a la bandera, acéptelo rápido en la pantalla para avanzar.",5
+"Solicito su autorización para generar el envío del código OTP de seguridad interna a su línea telefónica activa para corroborar su titularidad real.",6
+"No me exige el sistema validar su cédula porque veo que ya ha tenido servicios con nosotros anteriormente.",6
+"Tenga en cuenta que el contrato digital detalla que los servicios adicionales de televisión premium tendrán un costo estipulado e independiente transcurrido el año.",7
+"Los términos del contrato son muy largos, se los enviaremos por correo para que los lea el próximo mes con calma.",7
+"Aseguremos que sus datos en el CRM estén actualizados: confírmeme su nombres completos, número de identificación válido, correo electrónico y segundo contacto.",8
+"Con su primer nombre me basta para montar la solicitud de servicio en la base de datos.",8
+"Ha sido registrado en nuestro programa de fidelización postventa. Estaremos contactándolo para evaluar su experiencia e invitarlo a postular a sus referidos.",9
+"Ya terminamos el proceso por hoy. Que esté bien.",9
+"Para su total tranquilidad, le resumo: adquiere internet de 200 megas con tecnología de fibra óptica y línea telefónica fija ilimitada por un valor de 79 mil pesos.",10
+"El resumen de lo que compró le llega en la primera factura del mes que viene.",10
+"Muchas gracias por su atención y por permitirnos ser su opción de conectividad. Que disfrute de una maravillosa jornada. ¡Hasta luego!",11
+"Listo, terminamos la interacción. Chao.",11
+"Valoro mucho su tiempo y sus preguntas; mi objetivo es asegurarme de que cada detalle del servicio haya quedado completamente claro y sin dudas.",12
+"Si no entiende las condiciones es mejor que no adquiera el servicio de Claro para evitarnos quejas posteriores en la línea.",12
+"Garantizamos que todas las condiciones, velocidades y características técnicas mencionadas se encuentran respaldadas bajo las políticas legales de Claro.",13
+"Le garantizo bajo cuerda que con este plan de datos nunca se le van a acabar las gigas aunque descargue películas de forma masiva todos los días.",13
+"¡Claro que sí! Muy buenos días. Qué excelente energía saludarlo hoy. Mi nombre es Natalia Restrepo. ¿Con quién tengo el agrado de comunicarme?",0
+"Buenas, mi nombre es Luis. Llamo para ofrecer portabilidad a los usuarios de otras compañías telefónicas.",0
+"Para brindarle una asesoría de calidad, coménteme: ¿qué dispositivos tecnológicos utiliza con mayor frecuencia en su día a día para conectarse a internet?",1
+"Le voy a asignar el plan de siempre porque no tengo tiempo de revisar sus consumos mensuales.",1
+"De acuerdo con sus necesidades de telefonía, este paquete le brinda minutos ilimitados a cualquier operador nacional e internacional de forma garantizada.",2
+"Tome este beneficio de Claro que le da televisión digital gratis para todos los televisores de su casa sin costo.",2
+"Su punto de vista es muy respetable; sin embargo, la estabilidad que le brinda nuestra red móvil le evitará pérdidas de conexión durante sus llamadas importantes.",3
+"Díga al auditor de calidad que usted llamó ayer para que le puedan aplicar el descuento especial que le estoy ofreciendo.",3
+"Con la confirmación de la orden, generamos el agendamiento logístico. La SIM card llegará a su domicilio mañana junto con el contrato físico comercial.",4
+"Ya quedó todo cargado en la plataforma. Espere a ver si le llega algún mensaje confirmando la entrega.",4
+"Antes de formalizar la transacción, es mi deber legal leer el aviso de privacidad y autorización de Habeas Data para el manejo legítimo de su información.",5
+"Esa lectura legal no es importante, yo le doy aceptar aquí en mi pantalla por usted para ahorrar tiempo.",5
+"Para comprobar la cobertura exacta en nuestro mapa Lead Time, requiero que me suministre la nomenclatura de su casa indicando calle, carrera y barrio.",6
+"El sistema me dice que no hay cobertura en su zona, pero yo le voy a poner una dirección vecina para que el técnico vaya de todas formas.",6
+"Es importante aclarar que los costos de mantenimiento de los equipos de televisión digital están completamente cubiertos dentro de la tarifa mensual estipulada.",7
+"Los términos del servicio pueden cambiar sin previo aviso, eso ya depende de las políticas generales de Claro.",7
+"Por favor, facilíteme su dirección de correo electrónico principal, su ocupación actual y el número telefónico obligatorio de su contacto de respaldo.",8
+"Con el número de celular ya puedo procesar la venta, los demás campos los lleno con información de prueba en el CRM.",8
+"Agradecemos su vinculación. Activaremos un canal de comunicación postventa para gestionar cualquier requerimiento y recibir la lista de sus familiares referidos.",9
+"Eso sería todo. Gracias por contestar la llamada comercial.",9
+"Le reitero el resumen de los servicios acordados: plan móvil pospuesto de 80 gigas con suscripción a Claro Música por un valor mensual neto de 52 mil pesos.",10
+"Ya terminamos la validación del paquete. Los detalles de la tarifa le vendrán impresos en el contrato digital.",10
+"Ha sido un verdadero honor conversar con usted. Le deseo un día lleno de éxitos y bendiciones. Gracias por elegir a Claro.",11
+"Bueno, que esté bien. Chao.",11
+"Me alegra mucho poder ayudarle a despejar sus dudas; recuerde que estamos para hacer su experiencia con Claro lo más sencilla y transparente posible.",12
+"Es que si usted no cuenta con cobertura de fibra óptica en su casa no hay nada que yo pueda hacer para mejorarle la velocidad del internet.",12
+"Nuestra compañía opera bajo la más estricta transparencia legal, ofreciendo los beneficios reales acordados en esta llamada de forma ética.",13
+"Le aseguro que con este plan su señal de televisión nunca se va a cortar aunque se presente una tormenta eléctrica masiva en su ciudad.",13
+"¡Claro que sí! Muy buenas tardes, le saluda Valentina Silva con la mejor actitud en este día. ¿Con quién tengo el gusto de hablar e interactuar?",0
+"Aló, buenas. Llamo de Claro para promocionar planes de internet banda ancha residencial para el hogar.",0
+"A fin de estructurar una propuesta económica ideal, cuénteme: ¿qué presupuesto promedio tiene destinado mensualmente para los servicios de conectividad?",1
+"Le voy a poner la misma tarifa de la competencia porque no tengo más opciones configuradas en mi sistema de ventas.",1
+"Analizando sus hábitos de entretenimiento, la inclusión de canales en alta definición en este bundle le garantizará la mejor experiencia visual para su familia.",2
+"Si se pasa con nosotros hoy le daremos telefonía fija totalmente gratis para toda la vida sin pagar cargos básicos.",2
+"Entiendo que la cláusula de permanencia le genere dudas, pero este mecanismo le asegura que el precio preferencial de su plan se mantendrá congelado un año.",3
+"Si le da miedo la permanencia yo le pongo en el sistema que es una línea corporativa y así se salta esa restricción de forma interna.",3
+"Con su confirmación final, procedemos a realizar la formalización comercial. Las fechas de corte y facturación quedaron establecidas los días 30 de cada mes.",4
+"Listo, el proceso ya se guardó en la base de datos general. Esté pendiente de su teléfono celular por si acaso.",4
+"Le informo detalladamente sobre el cumplimiento normativo de Habeas Data: sus datos serán tratados con absoluta confidencialidad y fines de validación crediticia.",5
+"El aviso de Habeas Data es un requisito del gobierno, no se preocupe por eso que no tiene ninguna implicación real.",5
+"Para certificar su identidad de manera legal, requerimos realizar la validación mediante el código OTP externo que acabamos de enviar a su línea de contacto.",6
+"No importa si la dirección no coincide exactamente con el Lead Time, yo le hago el ajuste manual en el mapa para que pase la orden.",6
+"Las condiciones del contrato estipulan de forma clara y transparente que los primeros tres meses cuentan con un descuento comercial del 20 por ciento.",7
+"Los precios finales pueden variar de acuerdo con los impuestos nacionales, así que el valor exacto se lo daremos después.",7
+"Para el correcto diligenciamiento del CRM de Claro, me confirma su correo electrónico, dirección exacta de correspondencia y segundo número de contacto.",8
+"Voy a duplicar su número de teléfono celular en el campo de contacto obligatorio para que el CRM me deje finalizar la pantalla.",8
+"Registramos su caso con total prioridad. Queda programado el seguimiento postventa. Recuerde que si nos refiere con sus vecinos recibirá incentivos económicos.",9
+"Hemos terminado la configuración de su orden de compra. Hasta luego.",9
+"Resumiendo de manera concisa su solicitud: usted adquiere el plan móvil Claro con 100 gigabytes de navegación por un valor mensual fijo de 65 mil pesos.",10
+"El paquete ya contiene todas las características que discutimos en la negociación. La información detallada le llegará después.",10
+"Le agradezco enormemente por su tiempo, amabilidad y excelente disposición durante nuestra conversación. Que pase una maravillosa tarde. ¡Hasta luego!",11
+"Chao, gracias.",11
+"Le ofrezco una disculpa sincera por los inconvenientes técnicos del pasado; mi compromiso hoy es brindarle una solución definitiva y de alta calidad.",12
+"Si usted no tiene conocimientos sobre tecnología de redes inalámbricas es normal que le parezca confusa mi explicación técnica.",12
+"Mantenemos un compromiso absoluto con la veracidad de nuestras ofertas comerciales, cumpliendo con los estándares de calidad y ética de la compañía.",13
+"Este módem de Claro tiene una tecnología especial que hace que las ondas de internet atraviesen paredes de concreto sin perder nada de velocidad.",13
+"¡Claro que sí! Qué excelente oportunidad para saludarlo en esta mañana. Mi nombre es Diego Castro. ¿Con quién tengo el placer de hablar hoy?",0
+"Hola, buenos días. Le estoy llamando de la empresa de telecomunicaciones para validar si le interesa una oferta de portabilidad.",0
+"Para entender mejor sus requerimientos de conectividad, cuénteme: ¿qué tipo de actividades realizan las personas que trabajan desde casa en su domicilio?",1
+"No tengo forma de validar qué es lo que usted necesita, así que le daré la información del combo intermedio que es el estándar.",1
+"Basándonos en sus hábitos de consumo de video, el plan Claro de 400 Megas le permitirá disfrutar de contenidos en resolución 4K en múltiples pantallas simultáneas.",2
+"Este plan le otorga navegación en redes sociales de forma ilimitada y totalmente gratis sin consumir nada de su saldo habitual.",2
+"Su argumento sobre el costo es totalmente comprensible; sin embargo, tenga en cuenta que Claro cuenta con la infraestructura de soporte técnico más robusta del país.",3
+"Le prometo de palabra que el servicio le va a salir a mitad de precio, no le preste atención a la tarifa que le mencione la grabación legal.",3
+"Damos inicio a la formalización de su Bundle Comercial. La activación de los servicios residenciales se realizará de forma coordinada con el equipo de terreno.",4
+"Ya quedó registrada la solicitud de compra del plan de Claro. Quedamos atentos a la confirmación de la plataforma central.",4
+"Antes de finalizar la interacción comercial, es mandatorio realizar la lectura del consentimiento de Habeas Data para la consulta en centrales de riesgo.",5
+"El disclaimer de privacidad es un texto muy extenso, así que le daré un resumen muy rápido para no quitarle más tiempo.",5
+"Para garantizar la plena seguridad en la validación de identidad, solicitamos la confirmación de los datos que aparecen registrados en su documento de identidad.",6
+"No tengo acceso al archivo Lead Time en este momento, pero asumiré que sí contamos con cobertura total en su zona residencial.",6
+"Le aclaro detalladamente que bajo los términos de este contrato digital, la velocidad de subida garantizada corresponde al 50 por ciento de la bajada.",7
+"Las condiciones del contrato se las enviaré en formato PDF a su correo para que las revise cuando tenga tiempo libre.",7
+"Requiero completar de forma estricta los campos del CRM de Claro: nombres completos, número de cédula, dirección exacta de domicilio y segundo contacto.",8
+"Con los datos de su tarjeta de crédito ya es suficiente para montar el proceso de facturación en el CRM sin llenar lo demás.",8
+"Agradecemos su preferencia por Claro. Activaremos el protocolo de seguimiento postventa para acompañarlo en su portabilidad y recibir la lista de referidos.",9
+"El trámite de su línea ya se encuentra en proceso de revisión. Que pase un buen día.",9
+"Haciendo un resumen de los acuerdos comerciales: usted adquiere el plan Todo Claro Hogar por una tarifa mensual fija y garantizada de 105 mil pesos.",10
+"El resumen de los componentes del servicio contratado se encuentra disponible en la página web oficial de la compañía.",10
+"Ha sido un verdadero placer brindarle mi asesoría en este día. Le deseo que pase una excelente jornada y que tenga muchos éxitos. ¡Hasta luego!",11
+"Ya se cerró la llamada. Hasta luego.",11
+"Aprecio mucho sus comentarios y su disposición al diálogo; mi intención es asegurarme de que reciba una atención transparente, clara y de alto nivel.",12
+"Si usted sigue utilizando ese enrutador antiguo de otra compañía nunca va a tener una velocidad aceptable de navegación en su hogar.",12
+"Operamos bajo los más estrictos principios de ética comercial y transparencia, garantizando que los beneficios ofrecidos sean los reales de la marca.",13
+"Con este plan de datos móviles le garantizo que va a tener cobertura de internet de alta velocidad incluso si se encuentra en un sótano profundo.",13

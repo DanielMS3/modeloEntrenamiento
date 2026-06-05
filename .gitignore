@@ -1,0 +1,13 @@
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Carpetas pesadas o privadas
+datos_entrenamiento/llamadas/
+modelo_qa_entrenado/
+resultados_checkpoint/
+transcripciones/
+reportes_qa/
+metricas_silencio/
+__pycache__/
+*.pyc

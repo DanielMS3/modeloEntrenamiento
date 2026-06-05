@@ -1,0 +1,114 @@
+[
+  {
+    "sesion": "Inicio / Saludo y Conexión",
+    "atributo": "Rapport Personalizado",
+    "cumple": "Agente saluda presentandose con su nombre, deber ser rompe hielo y generar conexión antes de hablar de productos. Se mantiene una conversación calidad, cercana, positiva y de facil entendimiento, se utiliza un tono de voz acorde y vocalización, donde se tendra presente la energia, la actitud y postura del asesor. Se debe identificar desde \"Claro\" en el transcurso del saludo.",
+    "no_cumple": "Saludo genérico o apresurado. No se crea conexión antes de la introducirse a la venta, con poca fuerza en el tono de voz",
+    "tipo_error": "No crítico",
+    "score": "3%"
+  },
+  {
+    "sesion": "Sondeo Profundo / Necesidades",
+    "atributo": "Exploración de Uso y Preferencias",
+    "cumple": "Indagar la necesidad sobre servicios actuales, uso de internet (dispositivos, apps), trabajo desde casa, necesidades de telefonía, entretenimiento, etc. Escucha activamente y confirma información. Genera preguntas efectivas para detectar la necesidad del cliente.",
+    "no_cumple": "Preguntas superficiales o repetitivas. No indaga en necesidades reales.",
+    "tipo_error": "Crítico",
+    "score": "8%"
+  },
+  {
+    "sesion": "Presentación de Paquete / Beneficios",
+    "atributo": "Argumentación Basada en Cliente",
+    "cumple": "Presenta el paquete adaptado, usando información del cliente. Explica beneficios vigentes de acuerdo a las politicas actuales, destacando valor, conveniencia y ventajas según hábitos y necesidades del cliente. Confirma descuento y resalta el valor real del plan, recrea de forma creativa la oferta para hacerla atractiva.",
+    "no_cumple": "No brinda beneficios del plan / Todo Claro, No realiza Ofrecimiento. Paquete genérico o sin relación con necesidades del cliente. No se brinda el valor real del plan sin descuentos. Cuando no es claro el ofrecimientos o se realiza de forma incompleta e incorrecta. No usar la palabra “Gratis\" por políticas de claro, se recomienda parafrasear.",
+    "tipo_error": "Crítico",
+    "score": "8%"
+  },
+  {
+    "sesion": "Manejo de Objeciones / Negociación",
+    "atributo": "Objeciones Consultivas",
+    "cumple": "Maneja las objeciones planteadas por el cliente, brindando argumentos que permitan persuadirlo a tomar la decisión de adquirir el producto: Responde objeciones económicas, de producto y objeciones personales del cliente. El agente rebate al menos 3 negativas del cliente. demuestra seguridad y domonio del tema. No aplica para llamada de seguimiento de venta.",
+    "no_cumple": "Responde de manera genérica o sin relacionarlo con beneficios. Se tomara como Fraude manipular la información de la clausula de permanencia como gancho de venta.",
+    "tipo_error": "Crítico",
+    "score": "10%"
+  },
+  {
+    "sesion": "Cierre / Confirmación del Bundle",
+    "atributo": "Formalización",
+    "cumple": "Confirma aceptación del cliente. Agenda entrega de SIM, activación y portabilidad (resalta el día de activación del servicio y fechas de corte). Mantiene tono cercano y seguro. Utiliza los diferentes tipos de cierres comerciales. Utiliza frases que incentiven la adquisición del producto, durante el transcurso de la llamada o en el cierre. Ejemplo: “Es una excelente opción” “¿Está listo para generar la activación?”",
+    "no_cumple": "Omite confirmar acuerdos, cierre frío o apresurado.",
+    "tipo_error": "Crítico",
+    "score": "8%"
+  },
+  {
+    "sesion": "Cumplimiento Legal / Disclaimers",
+    "atributo": "Lectura de disclaimers",
+    "cumple": "Lee correctamente los disclaimers de crédito y manejo de datos (Habas Data) al cliente, explicando de manera clara y entendible antes de formalizar la venta.",
+    "no_cumple": "Omite leer disclaimers o lo hace de forma incorrecta, confusa o apresurada.",
+    "tipo_error": "Crítico",
+    "score": "12%"
+  },
+  {
+    "sesion": "Tratamiento de datos/Titularidad/ Cobertura",
+    "atributo": "Validación de identidad",
+    "cumple": "Se debe garantizar el guion de tratamiento de datos, para la verificación del cupo de crédito del Cliente (Solicita autorización Habeas Data). Validar que el cliente en contacto sea el titular por medio de OTP interno, OTP externo o biometría facial. Explicar proceso por seguridad. Solicitar dirección y validar cobertura en archivo Lead Time.",
+    "no_cumple": "Se omite validar la identidad del cliente, no se verifica la cobertura de la dirección",
+    "tipo_error": "Crítico",
+    "score": "12%"
+  },
+  {
+    "sesion": "Precio y Condiciones",
+    "atributo": "Claridad en Costo y Contrato",
+    "cumple": "Explica términos y condiciones del contrato de forma clara y sencilla. Se debe tener en cuenta si es contrato digital o grabado.",
+    "no_cumple": "Omite aclarar terminos y condiciones del contrato.",
+    "tipo_error": "Crítico",
+    "score": "8%"
+  },
+  {
+    "sesion": "Registro de Cliente / CRM",
+    "atributo": "Diligencia completa de datos",
+    "cumple": "Recopila y almacena en CRM toda la información necesaria: nombre, dirección, teléfono, correo electrónico, autorizaciones de contacto y líneas a portar. Solicita segundo número obligatorio.",
+    "no_cumple": "Omite datos importantes o registra información incompleta. Notas poco claras.",
+    "tipo_error": "Crítico",
+    "score": "10%"
+  },
+  {
+    "sesion": "Postventa / Fidelización",
+    "atributo": "Seguimiento y Referidos",
+    "cumple": "Agenda seguimiento si es necesario, invita a referidos, gestiona devolución de llamadas y valida estado de portabilidad.",
+    "no_cumple": "No agenda seguimiento ni invita a referidos.",
+    "tipo_error": "No crítico",
+    "score": "3%"
+  },
+  {
+    "sesion": "Resumen de la Llamada",
+    "atributo": "Resumen breve y claro",
+    "cumple": "Resume paquete adquirido, confirma precio mensual, informa condiciones y reitera día de portabilidad.",
+    "no_cumple": "Omite uno o varios puntos o lo hace de forma confusa.",
+    "tipo_error": "Crítico",
+    "score": "3%"
+  },
+  {
+    "sesion": "Cierre / Despedida cordial",
+    "atributo": "Despedida final",
+    "cumple": "Despide cordialmente con tono cercano y amistoso.",
+    "no_cumple": "Despedida fría, abrupta o genérica.",
+    "tipo_error": "No crítico",
+    "score": "2%"
+  },
+  {
+    "sesion": "Comunicación efectiva y escucha activa",
+    "atributo": "Habilidades de comunicación",
+    "cumple": "Mantiene tono cordial y empático, usa lenguaje claro, conecta con el cliente, da respuestas precisas y demuestra atención.",
+    "no_cumple": "Uso excesivo de tecnicismos, tono negativo, comunicación confusa, interrumpe o no demuestra atención.",
+    "tipo_error": "No Crítico",
+    "score": "5%"
+  },
+  {
+    "sesion": "Falsas Expectativas",
+    "atributo": "Malas practicas",
+    "cumple": "Información veraz, ética comercial, beneficios reales, sin engaños.",
+    "no_cumple": "Promesas falsas, modificación indebida de tarifas, uso incorrecto de clausulas o retracto como gancho.",
+    "tipo_error": "Crítico",
+    "score": "8%"
+  }
+]
